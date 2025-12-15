@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FICS - Financial Compliance & SIA Agent",
+  "description": "Agen Kepatuhan dan Pelaporan Finansial berbasis AI untuk BLUD Rumah Sakit. Menganalisis klaim BPJS, memvalidasi SPI, dan mensimulasikan jurnal akuntansi berbasis akrual (PSAP 13).",
+  "requestFramePermissions": []
+}
